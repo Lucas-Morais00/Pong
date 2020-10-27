@@ -6,7 +6,7 @@
 import turtle
 import winsound
 import time
-import terminedia as TM
+import terminedia
 
 #Definindo a tela do jogo
 window = turtle.Screen()
