@@ -174,7 +174,7 @@ while True:
         winsound.PlaySound("vic.wav", winsound.SND_FILENAME)
         turtle.exitonclick()
 
-    #AI
+    #Computador
     '''
     if  tecla == 's':
         if raqueteB.ycor() < bola.ycor() and abs(raqueteB.ycor() - bola.ycor()) > 10:
